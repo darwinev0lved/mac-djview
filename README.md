@@ -146,4 +146,4 @@ Tests/MacDjViewTests/
 
 ## License
 
-<!-- TODO: choose a license -->
+MIT License
